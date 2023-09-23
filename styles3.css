@@ -12,7 +12,8 @@ body{
   border: solid white;
 }
 header{
-  background-color:yellow;
+  background-color:white;
+  border: solid white;
   display: grid;
   grid-template-columns: 160px auto;
 }
