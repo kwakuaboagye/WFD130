@@ -102,11 +102,11 @@ selector{
 
 nav a{
     color:#3A6EA5;
-    font-weight: bold;
+    font-weight:bold;
     font-size:1.7em;
 }
 
-nav a: hover{
+nav a:hover{
   color:#F7CE5B;
 }
 
