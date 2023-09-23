@@ -14,7 +14,7 @@ body{
 header{
   background-color:white;
   border: solid white;
-  display: grid;
+  display:grid;
   grid-template-columns: 160px auto;
 }
 img{
