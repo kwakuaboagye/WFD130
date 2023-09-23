@@ -106,7 +106,7 @@ nav a{
     font-size:1.7em;
 }
 
-nav a:hover{
+nav a: hover{
   color:#F7CE5B;
 }
 
@@ -117,7 +117,7 @@ nav ul {
 }
 
 nav ul li{
-  display:inline;
+  display: inline;
   padding:10px;
 
 }
@@ -142,12 +142,12 @@ p{
 }
 
 .home-headline-3, .home-paragraph-3{
-  text-align:center;
+  text-align: center;
 }
 
 footer{
   height:55px;
-  display:grid;
+  display: grid;
   grid-template-columns:1fr 1fr;
   padding-bottom:10px;
   background-color:#F7CE5B;
