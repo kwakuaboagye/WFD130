@@ -15,3 +15,13 @@ header{
   display: grid;
   grid-template-columns: 160px auto;
 }
+img{
+  max-width:100%;
+}
+
+.banner-box img{
+  width:100%;
+  border: 1px solid #FF9505;
+  grid-column: 1/-1;
+  grid-row: 1;
+}
